@@ -1,1 +1,3 @@
-﻿Controllers in ASP.NET MVC - running - 11/12/2024
+﻿Controllers in ASP.NET MVC - Completed - 11/12/2024
+ASP.NET MVC Views - Completed  - 11/12/2024
+ASP.NET MVC Models - Running - 11/12/2024
